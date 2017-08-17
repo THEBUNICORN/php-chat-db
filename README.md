@@ -12,8 +12,16 @@ Define the colones necessary to carry out the experiment described in the protot
 
 *3. Functionnality:
 
--Register: crée un compte utilisateur du chat ( un formulaire permettant de spécifier son email et son mot de passe).
-Pas de validationlors de l'inscription par mail.
--login/logout: Se connecter à son compte (email + mot de passe) et se deconnecter (logout) en utilisant *les sessions PHP
+*-Register:* 
+Creates a user account of the chat (a form allowing to specify his email and his password).
+No validation when registering by mail.
+
+*-login/logout:* 
+Log in to his account (email + password) and logout using *PHP sessions*
+
+*-Message:*
+
+Be able to publish messages in the conversation.
+
 
 https://github.com/becodeorg/BXLCentral/tree/master/Projects/9-php-chat-db
