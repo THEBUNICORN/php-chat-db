@@ -24,5 +24,8 @@ Log in to his account (email + password) and logout using *PHP sessions*
 
 Be able to publish messages in the conversation.
 
+If we are connected, we can just read the messages, but not publish them. 
+Instead of the message form, displays an invitation to log in or register.
+Each form processing will be sanitized and validated beforehand.
+Try to implement emojis, have an image as a portrait for each user, heal the UX.
 
-https://github.com/becodeorg/BXLCentral/tree/master/Projects/9-php-chat-db
