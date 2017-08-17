@@ -1,6 +1,7 @@
 # Chatbox PHP + MySQL
 
-       Consevoir un outils permettant à plusieurs personnes de communiqué à distance.
+       
+                            Provide a tool allowing multiple people to communicate remotely.
 
 *1. NO JAVASCRIPT:
 
